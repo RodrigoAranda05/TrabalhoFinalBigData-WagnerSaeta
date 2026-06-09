@@ -3,7 +3,7 @@ Sobre o Projeto
 
 Este projeto foi desenvolvido como trabalho acadêmico da disciplina de Big Data.
 
-O objetivo foi utilizar técnicas de análise de dados para organizar, processar e visualizar informações de um estúdio de tatuagem, auxiliando na tomada de decisões por meio de indicadores e dashboards.
+O objetivo foi utilizar técnicas de análise de dados para organizar, processar e visualizar informações de um estúdio de tatuagem "Wagner Saeta" onde meu pai é o sócio do estúdio, auxiliando na tomada de decisões por meio de indicadores e dashboards.
 
 Tecnologias Utilizadas
 Python
