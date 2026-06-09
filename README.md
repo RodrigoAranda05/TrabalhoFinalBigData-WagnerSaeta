@@ -25,6 +25,8 @@ O projeto permitiu transformar dados do estúdio em informações úteis para ge
 
 Autores
 Rodrigo Ribeiro Aranda
+
+
 Instituição
 
 Estácio Nova América
